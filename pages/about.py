@@ -46,25 +46,26 @@ beauty of the Hill Country, our Stonewall home is the perfect base for your adve
 
 st.markdown("---")
 
-# --- SLEEPING ARRANGEMENTS ---
-col1, col2 = st.columns([1.2, 1])
+# --- SLEEPING ARRANGEMENTS & BATHROOMS ---
+col1, col2 = st.columns([1.3, 1])
 
 with col1:
-    st.markdown("## Sleeping Arrangements")
-    st.write("""
-    - **Bedroom 1:** King Bed  
-    - **Bedroom 2:** Queen Bed  
-    - **Bedroom 3:** Queen Bed  
-    """)
+    st.markdown("### Sleeping Arrangements")
+    st.markdown("""
+- **Bedroom 1:** King Bed  
+- **Bedroom 2:** Queen Bed  
+- **Bedroom 3:** Queen Bed  
+""")
 
 with col2:
-    st.markdown("## Bathroom Details")
-    st.write("""
-    - **Bathroom 1:** Shower and soaking tub (fits 2)  
-    - **Bathroom 2:** Shower/tub combo  
-    """)
+    st.markdown("### Bathroom Details")
+    st.markdown("""
+- **Bathroom 1:** Shower + soaking tub (fits 2)  
+- **Bathroom 2:** Shower/tub combo  
+""")
 
 st.markdown("---")
+
 
 # --- KITCHEN AMENITIES ---
 st.markdown("## Kitchen Amenities")
