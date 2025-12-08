@@ -12,7 +12,21 @@ st.subheader("In the Heart of Wine Country – Stonewall, Texas")
 IMAGE_DIR = "images"  # Folder containing your images
 
 custom_images = [
-    {"file": "01_Entryway.jpg",        "name": "Entryway"}
+    {"file": "01_Entryway.jpg",        "name": "Entryway"},
+    {"file": "02_Living Room.jpg",  "name": "Living Room"},
+    {"file": "03_Living Room.jpg",      "name": "Living Room"},
+    {"file": "04_Kitchen.jpg",     "name": "Kitchen"},
+    {"file": "5_Kitchen.jpg",     "name": "Kitchen"},
+    {"file": "5.5_Master.jpg",     "name": "Master Bedroom"},
+    {"file": "06_Master.jpg",     "name": "Master Bedroom"},
+    {"file": "07_Master Bath.jpg",     "name": "Master Bathroom"},
+    {"file": "08_Guest Room.jpg",     "name": "Guest Room 1"},
+    {"file": "09_Guest Bath.jpg",     "name": "Guest Bathroom"},
+    {"file": "10_Guest 2.jpg",     "name": "Guest Bedroom 2"},
+    {"file": "11_Exterior.jpg",     "name": "Exterior"},
+    {"file": "12_View.jpg",     "name": "View"},
+    {"file": "13_Exterior.jpg",     "name": "Exterior"},
+    {"file": "111_Wine.jpg",     "name": ""}
     ]
 
 # ---------------------------------------------------------
