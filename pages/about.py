@@ -12,7 +12,6 @@ st.subheader("In the Heart of Wine Country – Stonewall, Texas")
 st.markdown("---")
 
 # --- ABOUT SECTION ---
-st.markdown("## Welcome to Your Hill Country Getaway")
 
 st.write("""
 Escape to our charming **3-bedroom, 2-bath retreat** nestled in the rolling hills of
