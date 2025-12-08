@@ -9,7 +9,7 @@ st.set_page_config(
 # --- HEADER ---
 st.title("Cheval Hill Country Hideaway")
 st.subheader("In the Heart of Wine Country – Stonewall, Texas")
-st.markdown("---")
+#st.markdown("---")
 
 # --- ABOUT SECTION ---
 
