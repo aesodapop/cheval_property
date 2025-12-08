@@ -1,12 +1,7 @@
 import streamlit as st
 import os
 
-# --- CONFIG ---
-st.set_page_config(
-  page_title="Cheval Hill Country Hideaway", 
-  layout="wide")
-
-st.subheader("In the Heart of Wine Country – Stonewall, Texas")
+st.title("Cheval Hill Country Hideaway")
 
 # Directory containing your images
 IMAGE_DIR = "images"  # Folder containing your images
