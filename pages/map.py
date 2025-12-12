@@ -7,7 +7,7 @@ st.title("Stonewall, Texas")
 st.write("Located between Fredricksburg and Johnson City.")
 
 #Google Maps Embed (Stonewall, TX)
-google_map_iframe = """
+google_map_iframe = f"""
 <iframe 
     width="100%" 
     height="600" 
@@ -17,7 +17,7 @@ google_map_iframe = """
 </iframe>
 """
 
-google_map_iframe = """
+google_map_iframe = f"""
 <iframe 
     width="100%" 
     height="600" 
