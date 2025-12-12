@@ -30,7 +30,7 @@ Three comfortable bedrooms ideal for families or small groups
 - **Bedroom 1:** King Bed  
 - **Bedroom 2:** Queen Bed  
 - **Bedroom 3:** Queen Bed  
-"")
+""")
 
 st.write("""
 Two full bathrooms stocked with essentials  
