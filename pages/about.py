@@ -28,20 +28,20 @@ st.markdown("## Inside the Home")
 st.write("""
 Three comfortable bedrooms ideal for families or small groups  
 - **Bedroom 1:** King Bed  
-    - **Bedroom 2:** Queen Bed  
-    - **Bedroom 3:** Queen Bed  
-- Two full bathrooms stocked with essentials  
-    - **Bathroom 1:** Shower + soaking tub (fits 2)  
-    - **Bathroom 2:** Shower/tub combo  
-- A welcoming living space
-    - Wifi
-    - Smart TV
-- A fully equipped kitchen  
-    - Stove  
-    - Refrigerator  
-    - Keurig (coffee pods provided)  
-    - Microwave  
-    - Cooking essentials  
+- **Bedroom 2:** Queen Bed  
+- **Bedroom 3:** Queen Bed  
+Two full bathrooms stocked with essentials  
+- **Bathroom 1:** Shower + soaking tub (fits 2)  
+- **Bathroom 2:** Shower/tub combo  
+A welcoming living space
+- Wifi
+- Smart TV
+A fully equipped kitchen  
+- Stove  
+- Refrigerator  
+- Keurig (coffee pods provided)  
+- Microwave  
+- Cooking essentials  
 
 **No pets or smoking please.**
 
