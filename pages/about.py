@@ -42,6 +42,8 @@ st.write("""
 A welcoming living space
 - Wifi
 - Smart TV
+""")
+st.write("""
 A fully equipped kitchen  
 - Stove  
 - Refrigerator  
@@ -51,40 +53,6 @@ A fully equipped kitchen
 
 **No pets or smoking please.**
 
-""")
-
-st.markdown("---")
-
-# --- SLEEPING ARRANGEMENTS & BATHROOMS ---
-col1, col2 = st.columns([1.3, 1])
-
-with col1:
-    st.markdown("## Sleeping Arrangements")
-    st.markdown("""
-- **Bedroom 1:** King Bed  
-- **Bedroom 2:** Queen Bed  
-- **Bedroom 3:** Queen Bed  
-""")
-
-with col2:
-    st.markdown("## Bathroom Details")
-    st.markdown("""
-- **Bathroom 1:** Shower + soaking tub (fits 2)  
-- **Bathroom 2:** Shower/tub combo  
-""")
-
-st.markdown("---")
-
-
-# --- KITCHEN AMENITIES ---
-st.markdown("## Kitchen Amenities")
-
-st.write("""
-- Stove  
-- Refrigerator  
-- Keurig (coffee pods provided)  
-- Microwave  
-- Cooking essentials  
 """)
 
 st.markdown("---")
