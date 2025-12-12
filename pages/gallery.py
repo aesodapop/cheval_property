@@ -19,7 +19,7 @@ custom_images = [
     {"file": "09_Guest Bath.jpg",     "name": "Bathroom 2"},
     {"file": "10_Guest 2.jpg",     "name": "Bedroom 2"},
     {"file": "11_Exterior.jpg",     "name": "Exterior"},
-    {"file": "12_View.jpg",     "name": "View"},
+    {"file": "12_View.jpg",     "name": "View from Porch"},
     {"file": "13_Exterior.jpg",     "name": "Exterior"},
     {"file": "111_Wine.jpg",     "name": ""}
     ]
