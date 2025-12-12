@@ -28,3 +28,8 @@ google_map_iframe = """
 """
 
 components.html(google_map_iframe, height=600)
+
+
+st.write("Key present in secrets:", "GOOGLE_MAPS_API_KEY" in st.secrets)
+st.write("Length of key:", len(st.secrets["GOOGLE_MAPS_API_KEY"]))
+
