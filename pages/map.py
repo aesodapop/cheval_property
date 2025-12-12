@@ -1,6 +1,8 @@
 import streamlit as st
 import streamlit.components.v1 as components
 
+api_key = st.secrets["GOOGLE_MAPS_API_KEY"]
+
 st.title("Stonewall, Texas")
 st.write("Located between Fredricksburg and Johnson City.")
 
