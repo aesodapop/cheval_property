@@ -27,6 +27,9 @@ st.markdown("## Inside the Home")
 
 st.write("""
 - Three comfortable bedrooms ideal for families or small groups  
+- **Bedroom 1:** King Bed  
+- **Bedroom 2:** Queen Bed  
+- **Bedroom 3:** Queen Bed  
 - Two full bathrooms stocked with essentials  
 - A welcoming living space and fully equipped kitchen  
 
