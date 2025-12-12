@@ -14,9 +14,6 @@ google_map_iframe = """
 </iframe>
 """
 
-components.html(google_map_iframe, height=600)
-
-
 google_map_iframe = """
 <iframe 
     width="100%" 
@@ -29,3 +26,4 @@ google_map_iframe = """
 
 src="https://www.google.com/maps/embed/v1/search?key=AIzaSyDwhi-pJP4DaYEuhf9k_bx24n5NIImcLEo&q&q=distilleries+near+Stonewall+TX"
 
+components.html(google_map_iframe, height=600)
