@@ -30,9 +30,6 @@ st.write("""
 - Two full bathrooms stocked with essentials  
 - A welcoming living space and fully equipped kitchen  
 
-Whether you're here for wine tours, a peaceful retreat, or to explore the natural
-beauty of the Hill Country, Stonewall is the perfect place for your adventure.
-
 **No pets or smoking please.**
 
 """)
