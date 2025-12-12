@@ -1,7 +1,8 @@
 import streamlit as st
 import streamlit.components.v1 as components
 
-st.title("Explore Stonewall, Texas located between Fredricksburg and Johnson City.")
+st.title("Stonewall, Texas")
+st.write("Located between Fredricksburg and Johnson City.")
 
 #Google Maps Embed (Stonewall, TX)
 google_map_iframe = """
