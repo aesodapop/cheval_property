@@ -31,11 +31,13 @@ Three comfortable bedrooms ideal for families or small groups
 - **Bedroom 2:** Queen Bed  
 - **Bedroom 3:** Queen Bed  
 "")
+
 st.write("""
 Two full bathrooms stocked with essentials  
 - **Bathroom 1:** Shower + soaking tub (fits 2)  
 - **Bathroom 2:** Shower/tub combo  
-"")
+""")
+
 st.write("""
 A welcoming living space
 - Wifi
