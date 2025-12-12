@@ -12,7 +12,7 @@ google_map_iframe = """
     width="100%" 
     height="600" 
     frameborder="0" style="border:0"
-    src="https://www.google.com/maps/embed/v1/place?key=api_key&q=Stonewall,TX" 
+    src="https://www.google.com/maps/embed/v1/place?key=api_key=Stonewall,TX" 
     allowfullscreen>
 </iframe>
 """
@@ -22,7 +22,7 @@ google_map_iframe = """
     width="100%" 
     height="600" 
     frameborder="0" style="border:0"
-    src="https://www.google.com/maps/embed/v1/search?key=api_key&q=wineries+near+Stonewall+TX" 
+    src="https://www.google.com/maps/embed/v1/search?key=api_key=wineries+near+Stonewall+TX" 
     allowfullscreen>
 </iframe>
 """
