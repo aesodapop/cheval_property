@@ -4,7 +4,7 @@ import streamlit.components.v1 as components
 api_key = st.secrets["GOOGLE_MAPS_API_KEY"]
 
 st.title("Stonewall, Texas")
-st.write("Located between Fredricksburg and Johnson City.")
+st.write("Map shows wineries along Highway 290 in-between Fredricksburg and Johnson City.")
 
 #Google Maps Embed (Stonewall, TX)
 google_map_iframe = f"""
