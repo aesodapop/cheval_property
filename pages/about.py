@@ -14,18 +14,10 @@ st.subheader("In the Heart of Wine Country – Stonewall, Texas")
 # --- ABOUT SECTION ---
 
 st.write("""
-Escape to our charming **3-bedroom, 2-bath retreat** nestled in the rolling hills of
-Stonewall—right in the center of Texas Wine Country. Whether you’re planning a
-weekend getaway or a relaxed country escape, this cozy home offers comfort, serenity,
-and unbeatable access to the area’s best attractions.
-
-Just minutes from award-winning **wineries, distilleries, and tasting rooms**, you’ll
-have your choice of memorable Hill Country experiences. Spend the day exploring local
-vineyards, sipping spirits, or strolling the historic towns of **Fredericksburg** and
-**Johnson City**.
-
-After a day out, unwind on the large **front porch**, complete with classic rocking
-chairs—perfect for sunsets and slow mornings.
+Experience the perfect Hill Country escape at our cozy 3-bedroom, 2-bath hideaway located right in the 
+center of Texas Wine Country. 
+Relax on the spacious front porch, explore local wineries and distilleries, or wander the historic 
+streets of Fredericksburg and Johnson City—all just minutes away.
 """)
 
 st.markdown("---")
@@ -39,9 +31,10 @@ st.write("""
 - A welcoming living space and fully equipped kitchen  
 
 Whether you're here for wine tours, a peaceful retreat, or to explore the natural
-beauty of the Hill Country, our Stonewall home is the perfect base for your adventure.
+beauty of the Hill Country, Stonewall is the perfect place for your adventure.
 
-**No pets and no smokers please.**
+**No pets or smoking please.**
+
 """)
 
 st.markdown("---")
@@ -50,7 +43,7 @@ st.markdown("---")
 col1, col2 = st.columns([1.3, 1])
 
 with col1:
-    st.markdown("### Sleeping Arrangements")
+    st.markdown("## Sleeping Arrangements")
     st.markdown("""
 - **Bedroom 1:** King Bed  
 - **Bedroom 2:** Queen Bed  
@@ -58,7 +51,7 @@ with col1:
 """)
 
 with col2:
-    st.markdown("### Bathroom Details")
+    st.markdown("## Bathroom Details")
     st.markdown("""
 - **Bathroom 1:** Shower + soaking tub (fits 2)  
 - **Bathroom 2:** Shower/tub combo  
