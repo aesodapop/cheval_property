@@ -62,8 +62,8 @@ else:
     if not valid_images:
         st.warning("No valid images found in the directory.")
     else:
-        cols = st.columns(1)
+        cols = st.columns(2)
         for idx, img in enumerate(valid_images):
             img_path = os.path.join(IMAGE_DIR, img["file"])
-            with cols[idx % 1]:
+            with cols[idx % 2]:
                 st.image(img_path, caption=img["name"])
