@@ -8,16 +8,11 @@ IMAGE_DIR = "images"  # Folder containing your images
 
 custom_images = [
     {"file": "01_Entryway.jpg",        "name": "Entryway"},
-
+    {"file": "02_Living Room.jpg",  "name": "Living Room"},
+    {"file": "03_Living Room.jpg",      "name": "Living Room"},    
     {"file": "04_Kitchen.jpg",     "name": "Kitchen"},
     {"file": "5_Kitchen.jpg",     "name": "Kitchen"},
-    
-    {"file": "02_Living Room.jpg",  "name": "Living Room"},
-
-
     {"file": "5.5_Master.jpg",     "name": "Bedroom 1"},
-    {"file": "03_Living Room.jpg",      "name": "Living Room"},
-    
     {"file": "06_Master.jpg",     "name": "Bedroom 1"},
     {"file": "07_Master Bath.jpg",     "name": "Bathroom 1"},
     {"file": "08_Guest Room.jpg",     "name": "Bedroom 2"},
