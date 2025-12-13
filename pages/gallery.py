@@ -8,7 +8,7 @@ import streamlit as st
 col1, col2, col3 = st.columns(3)
 with col1:
     if st.button("About"):
-        st.switch_page("About.py")
+        st.switch_page("about.py")
 with col2:
     if st.button("Gallery"):
         st.switch_page("pages/gallery.py")
