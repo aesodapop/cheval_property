@@ -3,16 +3,16 @@ import os
 
 st.title("Cheval Hill Country Hideaway")
 
-col1, col2, col3 = st.columns(3)
-with col1:
-    if st.button("About"):
-        st.switch_page("about.py")
-with col2:
-    if st.button("Gallery"):
-        st.switch_page("pages/gallery.py")
-with col3:
-    if st.button("Map"):
-        st.switch_page("pages/map.py")
+# col1, col2, col3 = st.columns(3)
+# with col1:
+#     if st.button("About"):
+#         st.switch_page("about.py")
+# with col2:
+#     if st.button("Gallery"):
+#         st.switch_page("pages/gallery.py")
+# with col3:
+#     if st.button("Map"):
+#         st.switch_page("pages/map.py")
 
 
 # Directory containing your images
