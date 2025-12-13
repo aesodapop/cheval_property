@@ -3,6 +3,8 @@ import streamlit.components.v1 as components
 
 api_key = st.secrets["GOOGLE_MAPS_API_KEY"]
 
+st.info("📱 On mobile: tap >> in top-left to navigate pages.")
+
 st.title("Stonewall, Texas")
 st.write("Map shows wineries along Highway 290 in-between Fredricksburg and Johnson City.")
 
