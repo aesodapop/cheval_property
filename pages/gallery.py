@@ -1,9 +1,9 @@
 import streamlit as st
 import os
 
-st.title("Cheval Hill Country Hideaway")
-
 st.info("📱 On mobile: tap >> in top-left to navigate pages.")
+
+st.title("Cheval Hill Country Hideaway")
 
 
 # col1, col2, col3 = st.columns(3)
