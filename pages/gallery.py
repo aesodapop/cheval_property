@@ -3,6 +3,9 @@ import os
 
 st.title("Cheval Hill Country Hideaway")
 
+st.info("📱 On mobile: tap the ☰ menu in the top-left to navigate between pages.")
+
+
 # col1, col2, col3 = st.columns(3)
 # with col1:
 #     if st.button("About"):
