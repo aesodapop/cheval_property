@@ -55,5 +55,5 @@ else:
         cols = st.columns(1)
         for idx, img in enumerate(valid_images):
             img_path = os.path.join(IMAGE_DIR, img["file"])
-            with cols[idx % 3]:
+            with cols[idx % 1]:
                 st.image(img_path, caption=img["name"])
