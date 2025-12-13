@@ -6,12 +6,13 @@ st.set_page_config(
     layout="wide"
 )
 
+st.info("📱 On mobile: tap >> in top-left to navigate pages.")
+
 # --- HEADER ---
 st.title("Cheval Hill Country Hideaway")
 st.subheader("In the Heart of Wine Country – Stonewall, Texas")
 #st.markdown("---")
 
-st.info("📱 On mobile: tap >> in top-left to navigate pages.")
 
 # --- ABOUT SECTION ---
 
