@@ -3,7 +3,7 @@ import os
 
 st.title("Cheval Hill Country Hideaway")
 
-st.info("📱 On mobile: tap the ☰ menu in the top-left to navigate between pages.")
+st.info("📱 On mobile: tap >> in top-left to navigate pages.")
 
 
 # col1, col2, col3 = st.columns(3)
