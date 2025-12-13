@@ -3,8 +3,6 @@ import os
 
 st.title("Cheval Hill Country Hideaway")
 
-import streamlit as st
-
 col1, col2, col3 = st.columns(3)
 with col1:
     if st.button("About"):
