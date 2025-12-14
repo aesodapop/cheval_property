@@ -64,7 +64,7 @@ st.markdown("---")
 st.markdown("## Guest Access")
 
 st.write("""
-On the **day of check-in**, you will receive an **Access Code Email at 4:00 PM**, which includes:
+On the **day of check-in**, you will receive an **Access Code Email at 3:00 PM**, which includes:
 
 - Property address  
 - Door code and entry instructions  
